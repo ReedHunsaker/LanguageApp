@@ -2,7 +2,7 @@
 
 A project created by Reed Hunsaker to teach langauge learning in conext through reading and flashcards.
 
-[Software Demo Video](https://youtu.be/Qy7NQIfeS2c)
+[Software Demo Video](https://youtu.be/NzdexgEWhyg)
 
 # Overview
 
